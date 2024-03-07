@@ -12,7 +12,7 @@ const About = () => (
       <h2 className="title">Resources</h2>
       <ul>
         <li>
-          <a href="https://github.com/MicrosoftDocs/mslearn-staticwebapp">
+          <a href="https://github.com/sergeevgk/mslearn-staticwebapps">
             Code in GitHub
           </a>
         </li>
