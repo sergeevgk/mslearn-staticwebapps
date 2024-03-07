@@ -6,7 +6,8 @@ const About = () => (
       <h2 className="title">Product Wish List</h2>
       <p>
         This project was created to help represent a fundamental app written
-        with React. The shopping theme is used throughout the app.
+        with React and publish it to Azure Static Web Apps. The shopping theme
+        is used throughout the app.
       </p>
       <br />
       <h2 className="title">Resources</h2>
